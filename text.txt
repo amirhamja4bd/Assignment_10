@@ -1,0 +1,5 @@
+counter app:
+1. counter page create 
+2. components -> counter.js 
+3. reduce -> store -> store.js // index.js a provider 
+4. reduce -> state -> counter -> counterSlice.js
